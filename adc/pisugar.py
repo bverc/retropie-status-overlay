@@ -4,7 +4,7 @@
 # ADC module for PiSugar3
 # https://github.com/PiSugar/PiSugar/wiki/PiSugar-3-Series
 #
-# Author: bverc
+# Authors: bverc, kineticmedic
 #
 # I2C must be enabled via raspi-config
 
